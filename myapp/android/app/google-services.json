@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135021676879",
+    "project_id": "belonio-flutter",
+    "storage_bucket": "belonio-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135021676879:android:dac650262d784d6c2a9d3a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSw_uYaknRMcBw4vrVhqzG3bhBYwPaLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
